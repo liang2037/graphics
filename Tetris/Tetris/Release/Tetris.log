@@ -1,0 +1,75 @@
+﻿  main.cpp
+C:\大学课件\图形学\期中作业\Tetris\Tetris\include\Angel.h(63,47): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\期中作业\Tetris\Tetris\include\mat.h(698,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\include\mat.h(699,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\include\mat.h(700,18): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\include\mat.h(721,24): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\include\mat.h(723,24): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\include\mat.h(726,30): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\include\mat.h(743,30): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(176,61): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(176,42): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(176,23): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(177,61): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(177,42): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(177,23): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(178,61): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(178,42): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(178,23): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(179,61): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(179,42): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(179,23): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(204,61): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(204,42): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(204,23): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(205,61): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(205,42): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(205,23): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(206,61): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(206,42): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(206,23): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(207,61): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(207,42): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(207,23): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(373,34): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(374,38): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(381,45): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(382,50): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(398,43): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(398,24): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(399,43): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(399,24): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(400,43): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(400,24): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(401,43): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(401,24): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(575,9): warning C4244: “初始化”: 从“GLfloat”转换到“int”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(576,9): warning C4244: “初始化”: 从“GLfloat”转换到“int”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(580,28): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(580,25): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(594,31): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(594,28): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(600,27): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(660,29): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(660,26): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(706,24): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(707,24): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(708,25): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(709,26): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(710,25): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(712,26): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(713,26): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(714,26): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(715,26): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(717,24): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(717,45): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(718,25): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(718,45): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(719,24): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\大学课件\图形学\期中作业\Tetris\Tetris\main.cpp(719,45): warning C4305: “参数”: 从“double”到“GLfloat”截断
+  正在生成代码
+  3 of 62 functions ( 4.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Tetris.vcxproj -> C:\大学课件\图形学\期中作业\Tetris\Release\Tetris.exe
